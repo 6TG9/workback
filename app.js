@@ -25,7 +25,3 @@ const start = async () => {
 };
 
 start();
-
-//andrewmjr2_db_user
-//uNHDa0STncdMBf9A
-//mongodb+srv://andrewmjr2_db_user:uNHDa0STncdMBf9A@cluster0.sidnpej.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
